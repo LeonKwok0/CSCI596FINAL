@@ -15,7 +15,7 @@ Spark is a fast, general-purpose computing engine designed for large-scale data 
 
 Spark is an open source parallel framework like Hadoop MapReduce developed by UC Berkeley AMP Lab (AMP Lab of University of California, Berkeley)
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/1.png"  style="zoom:50%;" />
+<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/1.png"  style="zoom:10%;" />
 
 ## User-based CF
 
