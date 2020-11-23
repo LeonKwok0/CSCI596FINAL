@@ -25,7 +25,7 @@ The basic idea of user-based CF is fairly simple. Based on the user's preference
 
 Figure shows an example. We can find that User1 and User 3 have similar tastes and preferences, and user 1 also likes Product 1 and 4, so we can infer that user 3 may also like Product 1 and 4, so we can recommend Product 1 and 4 to User3.
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/2.png" alt="截屏2020-11-23 下午12.54.18" style="zoom:50%;" />
+<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/2.png" alt="截屏2020-11-23 下午12.54.18" style="zoom:10%;" />
 
 
 
