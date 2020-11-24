@@ -25,7 +25,7 @@ The basic idea of user-based CF is fairly simple. Based on the user's preference
 
 Figure shows an example. We can find that User1 and User 3 have similar tastes and preferences, and user 1 also likes Product 1 and 4, so we can infer that user 3 may also like Product 1 and 4, so we can recommend Product 1 and 4 to User3.
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/2.png" width=80% height=80%>
+<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/2.png" width=90% height=90%>
 
 ## Work flow of our final project (Implementation)
 
@@ -48,7 +48,7 @@ Then their cosine similarity is
 
 Extended to multi-dimensional vector A (A1, A2, A3, A4...) , b (b1, b2, b3, b4...)
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/5.png" width=80% height=80%>
+<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/5.png" width=60% height=60%>
 
 The similarity between these users can be converted into a similarity matrix
 
