@@ -15,7 +15,7 @@ Spark is a fast, general-purpose computing engine designed for large-scale data 
 
 Spark is an open source parallel framework like Hadoop MapReduce developed by UC Berkeley AMP Lab (AMP Lab of University of California, Berkeley)
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/1.png"  style="zoom:10%;" />
+![Parameter Server]（https://github.com/LeonKwok0/CSCI596FINAL/blob/main/1.png）
 
 ## User-based CF
 
@@ -25,7 +25,7 @@ The basic idea of user-based CF is fairly simple. Based on the user's preference
 
 Figure shows an example. We can find that User1 and User 3 have similar tastes and preferences, and user 1 also likes Product 1 and 4, so we can infer that user 3 may also like Product 1 and 4, so we can recommend Product 1 and 4 to User3.
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/2.png" alt="截屏2020-11-23 下午12.54.18" style="zoom:10%;" />
+![Parameter Server]（https://github.com/LeonKwok0/CSCI596FINAL/blob/main/2.png）
 
 
 
@@ -41,14 +41,14 @@ There are many ways to calculate similarity . We choose Cosine Similarity
 
 Assume the two-dimensional vector A and B as shown in the figure below
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/3.png" alt="截屏2020-11-23 下午2.03.10" style="zoom:30%;" />
+![Parameter Server]（https://github.com/LeonKwok0/CSCI596FINAL/blob/main/3.png）
 
 Then their cosine similarity is
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/4.png" alt="截屏2020-11-23 下午2.03.45" style="zoom:30%;" />
+![Parameter Server]（https://github.com/LeonKwok0/CSCI596FINAL/blob/main/4.png）
 
 Extended to multi-dimensional vector A (A1, A2, A3, A4...) , b (b1, b2, b3, b4...)
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/5.png" alt="截屏2020-11-23 下午2.04.32" style="zoom:50%;" />
+![Parameter Server]（https://github.com/LeonKwok0/CSCI596FINAL/blob/main/5.png）
 
 The similarity between these users can be converted into a similarity matrix
 
