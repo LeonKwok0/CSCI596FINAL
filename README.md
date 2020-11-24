@@ -47,7 +47,10 @@ Then their cosine similarity is
 
 <img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/4.png" alt="截屏2020-11-23 下午2.03.45" style="zoom:30%;" />
 
-Extended to multi-dimensional vector A (A1, A2, A3, A4...) , b (b1, b2, b3, b4...)<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/5.png" alt="截屏2020-11-23 下午2.04.32" style="zoom:50%;" />The similarity between these users can be converted into a similarity matrix
+Extended to multi-dimensional vector A (A1, A2, A3, A4...) , b (b1, b2, b3, b4...)
+<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/5.png" alt="截屏2020-11-23 下午2.04.32" style="zoom:50%;" />
+
+The similarity between these users can be converted into a similarity matrix
 
 
 
