@@ -68,3 +68,14 @@ Since the user has already acted on some of the items in the recommended list, i
 
 Get the final recommendation list, whose value represents the user's interest in the product. Finally a sorted list of items is calculated as a recommendation
 
+## Environment
++ Linux
++ Hadoop
++ MySQL
++ Spark
++ Mahout
++ Scala
++ Java
+
+
+
