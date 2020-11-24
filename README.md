@@ -63,5 +63,5 @@ Since the user has already acted on some of the items in the recommended list, i
 
 ### Result
 
-Get the final recommendation list, whose value represents the user's interest in the product. Finally we make recommendations
+Get the final recommendation list, whose value represents the user's interest in the product. Finally a sorted list of items is calculated as a recommendation
 
