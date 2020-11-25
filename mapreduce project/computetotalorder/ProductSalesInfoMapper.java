@@ -1,5 +1,3 @@
-package day0702.ordertotal;
-
 import java.io.IOException;
 
 import org.apache.hadoop.io.IntWritable;
