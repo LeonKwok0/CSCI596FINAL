@@ -1,5 +1,3 @@
-package day0702.ordertotal;
-
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
