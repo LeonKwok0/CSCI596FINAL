@@ -52,7 +52,16 @@ Extended to multi-dimensional vector A (A1, A2, A3, A4...) , b (b1, b2, b3, b4..
 
 The similarity between these users can be converted into a similarity matrix
 
+The following is the partial similarity between users calculated by the cosine similarity formula:
 
+```
+1	2	0.999489144283392
+1	3	0.951009468591049
+1	4	0.6101699194694563
+2	3	0.9514955455298099
+2	4	0.6104817875805268
+3	4	0.6408097907695536
+```
 
 **Recommendation list = similarity matrix X score matrix**
 
@@ -67,6 +76,8 @@ Since the user has already acted on some of the items in the recommended list, i
 ### Result
 
 Get the final recommendation list, whose value represents the user's interest in the product. Finally a sorted list of items is calculated as a recommendation
+
+Recommended products to User2:
 
 ## Environment
 + Linux
