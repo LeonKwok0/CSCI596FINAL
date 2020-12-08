@@ -78,7 +78,8 @@ Since the user has already acted on some of the items in the recommended list, i
 Get the final recommendation list, whose value represents the user's interest in the product. Finally a sorted list of items is calculated as a recommendation
 
 Recommended products to User2:
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/6.png" width=40% height=20%>
+
+<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/6.png" width=30% height=10%>
 
 ## Environment
 + Linux
