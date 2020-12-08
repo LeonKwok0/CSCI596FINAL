@@ -61,6 +61,7 @@ The following is the partial similarity between users calculated by the cosine s
 2	3	0.9514955455298099
 2	4	0.6104817875805268
 3	4	0.6408097907695536
+...
 ```
 
 **Recommendation list = similarity matrix X score matrix**
