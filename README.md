@@ -79,7 +79,7 @@ Get the final recommendation list, whose value represents the user's interest in
 
 Recommended products to User2:
 
-<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/6.png" width=30% height=10%>
+<img src="https://github.com/LeonKwok0/CSCI596FINAL/blob/main/6.png" width=40% height=20%>
 
 ## Environment
 + Linux
