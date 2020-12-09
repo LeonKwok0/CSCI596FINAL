@@ -11,7 +11,7 @@ the GitHub repository for the CSCI596 final project. We will learn and use spark
 
 ## Spark
 
-Spark is a fast, general-purpose computing engine designed for large-scale data processing. 
+Spark is a fast, general-purpose computing engine designed for large-scale data processing. Apache Spark has its architectural foundation in the resilient distributed dataset (RDD), a read-only multiset of data items distributed over a cluster of machines, that is maintained in a fault-tolerant way. The Dataframe API was released as an abstraction on top of the RDD, followed by the Dataset API
 
 Spark is an open source parallel framework like Hadoop MapReduce developed by UC Berkeley AMP Lab (AMP Lab of University of California, Berkeley)
 
